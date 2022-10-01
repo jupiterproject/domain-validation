@@ -1,2 +1,3 @@
-# todo-boilerplate
-Boilerplate example for the todo aspect of Jupiter.
+# domain-validation
+
+Validate domains easily and quickly with Go.
